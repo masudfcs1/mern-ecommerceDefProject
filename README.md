@@ -20,8 +20,10 @@ The MERN E-commerce web application, harnessing MongoDB, Express.js, React.js, a
 ![image](https://github.com/masudfcs1/Mern-Dune-ecommerceDefProject/assets/57311382/7346666a-c6f1-4f61-a756-8d4206acabd4)
 
 #Home Page
+
 ![image](https://github.com/masudfcs1/Mern-Dune-ecommerceDefProject/assets/57311382/d467f254-28a3-4661-a412-28781248a534)
 ![image](https://github.com/masudfcs1/Mern-Dune-ecommerceDefProject/assets/57311382/16efe33d-4c62-4232-ba62-927d343a5b3e)
 
 #Sign Up Page/ Login Page
+
 ![image](https://github.com/masudfcs1/Mern-Dune-ecommerceDefProject/assets/57311382/4870852a-2187-4c47-979f-61a6cb088a97)
