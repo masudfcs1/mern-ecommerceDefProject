@@ -1,6 +1,6 @@
 ﻿# Mern-Dune-ecommerceDefProject
  
-- Mern-ecommerceDefProject WebApplication
+ Mern-ecommerceDefProject WebApplication
 - ReactJS
 - Nodejs
 - expressjs
