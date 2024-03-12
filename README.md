@@ -12,7 +12,7 @@ Live Demo->https://www.youtube.com/watch?v=juSkjnn_iJg
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/juSkjnn_iJg/0.jpg)](https://www.youtube.com/watch?v=juSkjnn_iJg)
 
-The MERN E-commerce web application, harnessing MongoDB, Express.js, React.js, and Node.js, embodies a robust and scalable approach. React delivers an interactive frontend, while Node.js and Express.js power a flexible backend. MongoDB ensures efficient data management, creating a seamless and comprehensive E-commerce solution.
+The MERN E-commerce web application, harnessing MongoDB, Express.js, React.js, and Node.js, embodies a robust and scalable approach. React delivers an interactive frontend, while Node.js and Express.js  power a flexible backend. MongoDB ensures efficient data management, creating a seamless and comprehensive E-commerce solution.
 
 
 ![image](https://github.com/masudfcs1/Mern-Dune-ecommerceDefProject/assets/57311382/0189d944-092d-4820-9612-40db1d1a624b)
